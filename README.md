@@ -1,5 +1,8 @@
-# Intro
+# Google Search Console URL Inspection API
 
-This is an example call the Google Search Console API and test URLs using the Inspection API. 
+Runs URL through the new Google Search Console URL Inspection API. 
 
-Using react-google-login for authentication
+## How to install
+```bash
+npm install
+```
